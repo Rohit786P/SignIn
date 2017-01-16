@@ -34,6 +34,7 @@ public class ActMessg extends AppCompatActivity implements OnItemClickListener{
     ListView smsListView;
     ArrayAdapter arrayAdapter;
 
+//Hello this is a comment..please ignore it
 
 
     public static ActMessg instance() {
